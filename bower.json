@@ -1,0 +1,21 @@
+{
+  "name": "angularportfolio",
+  "description": "Portfolio made with angular and Material ui",
+  "main": "index.js",
+  "authors": [
+    "Eele Sikkes"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.5"
+  }
+}
